@@ -1,0 +1,6 @@
+{
+  "name": "Brand Builder App",
+  "description": "Describe a product and envision it across different advertising mediums (billboards, newspapers, social feeds) while maintaining solid visual product consistency without human figures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
